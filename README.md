@@ -34,7 +34,7 @@ Ex :
 curl -o - https://raw.githubusercontent.com/<UserName>/dotfiles/main/install.sh | sh
 ```
 
-## Reboot User Machine
+## Reboot Machine
 
 ```sh
 sudo reboot
