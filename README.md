@@ -1,6 +1,7 @@
 # Template for getting started with dotfiles
 
 > This is for Mac OS users; other operating systems are not covered.
+> Be careful not to push your account's private key or password!!
 
 ## file structure
 
@@ -41,6 +42,7 @@ sudo reboot
 # dotfiles を始めるためのテンプレート
 
 > これは Mac OS ユーザ向けのため、それ以外の OS は対象外です。
+> アカウントの秘密鍵やパスワードを push しないように気をつけて下さい!!
 
 ## ファイル構成
 
