@@ -25,7 +25,7 @@ Files under packages/zsh will be linked under the home directory.
 
 Ex :
 
-- `brew install git` → `brew "stow"`
+- `brew install git` → `brew "git"`
 - `brew install --cask iterm2` → `cask iterm2`
 
 ## Run Install Script!!
