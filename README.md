@@ -69,7 +69,7 @@ packages/zsh 配下のファイルがホームディレクトリ配下にリン�
 
 例:
 
-- `brew install git` → `brew "stow"`
+- `brew install git` → `brew ""`
 - `brew install --cask iterm2` → `cask iterm2`
 
 ## インストールスクリプトの実行
